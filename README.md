@@ -31,6 +31,9 @@ This is a command line version of Gh0stR3c0n tool made by karthi-the-hacker. Thi
 ### Screenshot 📸 :
 ![gh0str3c0n-screenshot](images/screenshot.png)
 
+### Video 🎥
+![gh0str3c0n-video](https://www.youtube.com/watch?v=Y8K6lJgyZ5E)
+
 #### Commands for Installation 🕹️ :
 
     $ git clone https://github.com/mdaseem03/gh0str3c0n-cli.git
