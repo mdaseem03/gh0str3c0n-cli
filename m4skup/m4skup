@@ -1,9 +1,0 @@
-#!/bin/bash
-
-output_dir="recon/$1"
-while read line;do
- host $line |grep address | awk '{print $NF}' >> $output_dir/m4skup.txt 
- host $line |grep address | awk '{print $1 "--->"  $NF}' >> $output_dir/domainwithip.txt
- n=$((n+1))
-done < $output_dir/all.txt
-cat $output_dir/m4skup.txt | sort -u >$output_dir/m4skup-all.txt
