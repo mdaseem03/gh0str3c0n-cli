@@ -28,6 +28,9 @@ This is a command line version of Gh0stR3c0n tool made by karthi-the-hacker. Thi
 
 - [Python](https://www.python.org/)
 
+### Screenshot 📸 :
+![gh0str3c0n-screenshot](images/screenshot.png)
+
 #### Commands for Installation 🕹️ :
 
     $ git clone https://github.com/mdaseem03/gh0str3c0n-cli.git
