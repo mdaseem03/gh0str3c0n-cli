@@ -30,6 +30,7 @@ This is a command line version of Gh0stR3c0n tool made by karthi-the-hacker. Thi
 
 ### Screenshot 📸 :
 ![gh0str3c0n-screenshot](images/screenshot.png)
+![gh0str3c0n-screenshot2](images/2.png)
 
 ### Video 🎥
 [![gh0str3c0n-video](https://img.youtube.com/vi/Y8K6lJgyZ5E/0.jpg)](https://www.youtube.com/watch?v=Y8K6lJgyZ5E)
